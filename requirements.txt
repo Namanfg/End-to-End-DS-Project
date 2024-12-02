@@ -8,4 +8,7 @@ seaborn
 matplotlib
 catboost
 xgboost
+dill
+Flask
+mlflow==2.2.2
 # -e .
